@@ -1,10 +1,10 @@
 ![Secrets of Conflict Resolution](Thumbnail.jpg)
 
 ## Abstract
-One of the most challenging aspect of being a leader is dealing with conflict amongst your team.  It’s vital to productivity to get the team running like a well-oiled machine, even in the face of adversity.  Improving your relationships with your coworkers, clients, and managers and find your way through conflict back to cooperation.  This session will provide you with the secrets of effective conflict resolution and how to prevent conflicts from ever starting.
+One of the most challenging aspects of being a leader is dealing with conflict amongst your team. Yet, productivity is vital to running the team like a well-oiled machine, even in adversity. Improve your relationships with coworkers, clients, and managers and find your way through conflict back to cooperation. This session will provide you with the secrets of effective conflict resolution and how to prevent conflicts from ever starting.
 
 ## Short Abstract
-Conflict within your team is inevitable.  Come and learn how learn ways to deal with this conflict so it doesn't tear apart your team.
+Conflict within your team is inevitable. Come learn how to deal with this conflict so it doesn't tear apart your team.
 
 # Type
 * 45/60/75-minute session
@@ -23,9 +23,10 @@ Conflict within your team is inevitable.  Come and learn how learn ways to deal 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [Prairie Dev Con Regina]([https://techbash.com/](https://www.prairiedevcon.com/)) | Regina, SK | October 3 - 4, 2022 | TBA | TBA | Available Afterwards |
-| Louisville Tech Ladies | Louisville, KY | June 6, 2019 | ??? | ??? | Coming Back |
-| Beer City Code 2019 | Grand Rapids, MI | 2019 | ??? | ??? | Coming Back |
-| Music City Tech 2019 | Nashville, TN | May 31 - June 2, 2018 | ??? | ??? | Coming Back |
-| [CodeStock 2018]([https://sceniccitysummit.com/](http://web.archive.org/web/20180809075922/http://codestock.org/) | Knoxville, TN | April 20-21, 2018 | ??? | ??? | Coming Back |
-| Cincinnati | Cincinnati, OH | 2016 | ??? | ??? | Coming Back |
-| Nebraska.Code() 2016 | Lincoln, NE | 2016 | ??? | ??? | Coming Back |
+| Tulsa .NET Meetup | Tulsa, OK (Online) | September 27, 2022 | 6:15 pm CDT | Online | Available Afterwards |
+| [Louisville Tech Ladies](https://www.meetup.com/louisville-tech-ladies/events/262013854/) | Louisville, KY | June 6, 2019 | 6:00 pm EDT | Conference Room | [Slides](Presentations/SecretsOfConflictResolution-LouisvilleTechLadiesJune2019.pdf) |
+| [Beer City Code 2019](http://web.archive.org/web/20190616091040/https://beercitycode.com/) | Grand Rapids, MI | June 1, 2019 | 2:00 pm EDT | Room 252 | [Slides](Presentations/SecretsOfConflictResolution-BeerCityCode2019.pdf) |
+| Music City Tech 2019 | Nashville, TN | May 31 - June 2, 2018 | N/A | N/A | [Slides](Presentations/SecretsOfConflictResolution-MusicCity2018.pdf) |
+| [CodeStock 2018](http://web.archive.org/web/20180809075922/http://codestock.org/) | Knoxville, TN | April 20-21, 2018 | N/A | N/A | [Slides](Presentations/SecretsOfConflictResolution-CodeStock2018.pdf) |
+| [CINNUG](https://www.meetup.com/techlife-cincinnati/events/qcqljcyvmbkc/) | Cincinnati, OH | September 27, 2016 | 6:00 pm EDT | Max Technical Training | [Slides](Presentations/SecretsOfConflictResolution-Cincinnati2016.pdf) |
+| Nebraska.Code() 2016 | Lincoln, NE | May 2016 | N/A | N/A | [Slides](Presentations/SecretsOfConflictResolution-Nebraska2016.pdf) |
