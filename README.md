@@ -22,7 +22,7 @@ Conflict within your team is inevitable. Come learn how to deal with this confli
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [VSLive! Las Vegas](https://vslive.com/Events/Las-Vegas-2023/Sessions/Thursday/TH17-Secrets-of-Conflict-Resolution.aspx) | Las Vegas, NV | March 23, 2023 | 2:45 PM PDT | TBA | Slides Available Afterwards |
+| [VSLive! Las Vegas](https://vslive.com/Events/Las-Vegas-2023/Sessions/Thursday/TH17-Secrets-of-Conflict-Resolution.aspx) | Las Vegas, NV | March 23, 2023 | 2:45 PM PDT | TBA |  Available Afterwards |
 | [Prairie Dev Con Regina](https://www.prairiedevcon.com/regina.html) | Regina, SK | October 4, 2022 | 1:00 PM CDT | Tuscany | [Slides](Presentations/SecretsOfConflictResolution-PDCRegina2022.pdf)|
 | [Tulsa .NET Meetup](https://www.meetup.com/tulsadevelopers-net/events/288252968/) | Tulsa, OK (Online) | September 8, 2022 | 6:15 pm CDT | Online | [Slides](Presentations/SecretsOfConflictResolution-Tulsa2022.pdf) / [Recording](https://usergroup.tv/videos/secrets-of-conflict-resolution/) |
 | [Louisville Tech Ladies](https://www.meetup.com/louisville-tech-ladies/events/262013854/) | Louisville, KY | June 6, 2019 | 6:00 pm EDT | Conference Room | [Slides](Presentations/SecretsOfConflictResolution-LouisvilleTechLadiesJune2019.pdf) |
