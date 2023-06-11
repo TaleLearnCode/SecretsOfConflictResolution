@@ -22,6 +22,7 @@ Conflict within your team is inevitable. Come learn how to deal with this confli
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Agile & Beyond](http://www.agileandbeyond.com/2023/) | Detroit, MI | June 14, 2023 | 3:00 PM EDT | 140B | [Slides](Presentations/SecretsOfConflictResolution-AgileAndBeyond.pdf) |
 | [VSLive! Las Vegas](https://vslive.com/Events/Las-Vegas-2023/Sessions/Thursday/TH17-Secrets-of-Conflict-Resolution.aspx) | Las Vegas, NV | March 23, 2023 | 2:45 PM PDT | Celebrity 3 |  [Slides](Presentations/TH17_SecretsOfConflictResolution.pdf) |
 | [Prairie Dev Con Regina](https://www.prairiedevcon.com/regina.html) | Regina, SK | October 4, 2022 | 1:00 PM CDT | Tuscany | [Slides](Presentations/SecretsOfConflictResolution-PDCRegina2022.pdf)|
 | [Tulsa .NET Meetup](https://www.meetup.com/tulsadevelopers-net/events/288252968/) | Tulsa, OK (Online) | September 8, 2022 | 6:15 pm CDT | Online | [Slides](Presentations/SecretsOfConflictResolution-Tulsa2022.pdf) / [Recording](https://usergroup.tv/videos/secrets-of-conflict-resolution/) |
