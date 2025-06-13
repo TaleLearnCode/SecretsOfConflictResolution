@@ -22,6 +22,7 @@ Conflict within your team is inevitable. Come learn how to deal with this confli
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [VS Live! San Diego 2025](http://www1.vslive.com/events/san-diego-2025/sessions/thursday/h03-conflict-resolution.aspx?_gl=1*10m9sk2*_gcl_au*MjA5MzkyOTY2LjE3NDg0NTczNDg.*_ga*MTgxNDAyNjU1Ny4xNzQwNTE2OTc0*_ga_SJVYHSGDDW*czE3NDk3OTQ4MjkkbzE2JGcxJHQxNzQ5Nzk1Mzg1JGo2MCRsMCRoMA..) | San Diego, CA | September 11, 2025 | 8:00 AM PDT | TBA | Available Afterwards |
 | [Agile & Beyond](http://www.agileandbeyond.com/2023/) | Detroit, MI | June 14, 2023 | 3:00 PM EDT | 140B | [Slides](Presentations/SecretsOfConflictResolution-AgileAndBeyond.pdf) |
 | [VSLive! Las Vegas](https://vslive.com/Events/Las-Vegas-2023/Sessions/Thursday/TH17-Secrets-of-Conflict-Resolution.aspx) | Las Vegas, NV | March 23, 2023 | 2:45 PM PDT | Celebrity 3 |  [Slides](Presentations/TH17_SecretsOfConflictResolution.pdf) |
 | [Prairie Dev Con Regina](https://www.prairiedevcon.com/regina.html) | Regina, SK | October 4, 2022 | 1:00 PM CDT | Tuscany | [Slides](Presentations/SecretsOfConflictResolution-PDCRegina2022.pdf)|
